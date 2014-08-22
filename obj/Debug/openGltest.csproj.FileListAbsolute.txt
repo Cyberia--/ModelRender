@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\openGltest\bin\Debug\openGltest.exe.config
+C:\Users\User\Desktop\openGltest\bin\Debug\openGltest.exe
+C:\Users\User\Desktop\openGltest\bin\Debug\openGltest.pdb
+C:\Users\User\Desktop\openGltest\bin\Debug\OpenGL.dll
+C:\Users\User\Desktop\openGltest\obj\Debug\openGltest.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\openGltest\obj\Debug\openGltest.exe
+C:\Users\User\Desktop\openGltest\obj\Debug\openGltest.pdb
+C:\Users\User\Desktop\openGltest\obj\Debug\openGltest.Properties.Resources.resources
+C:\Users\User\Desktop\openGltest\obj\Debug\openGltest.csproj.GenerateResource.Cache

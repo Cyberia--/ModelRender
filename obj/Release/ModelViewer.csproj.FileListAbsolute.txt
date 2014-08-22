@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\ModelRender\bin\Release\OpenGL.dll
+C:\Users\User\Desktop\ModelRender\obj\Release\ModelViewer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ModelRender\bin\Release\ModelViever.exe.config
+C:\Users\User\Desktop\ModelRender\bin\Release\ModelViever.exe
+C:\Users\User\Desktop\ModelRender\bin\Release\ModelViever.pdb
+C:\Users\User\Desktop\ModelRender\obj\Release\ModelViewer.Properties.Resources.resources
+C:\Users\User\Desktop\ModelRender\obj\Release\ModelViever.exe
+C:\Users\User\Desktop\ModelRender\obj\Release\ModelViever.pdb
