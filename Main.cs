@@ -19,7 +19,7 @@ namespace ModelViewer
 
     /*
      * ModelViewer
-     * Oliver Smithson
+     * Cyberia--
      * 
      * This program is designed to take in a .obj file and 
      * display it rotating in an OpenGL context window. 
