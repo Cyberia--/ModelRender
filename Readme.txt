@@ -1,5 +1,5 @@
 # Model Render v0.1
-# Oliver Smithson 
+# Cyberia-- 
 
 [Controls]
 Space : Pause the rotation then 
